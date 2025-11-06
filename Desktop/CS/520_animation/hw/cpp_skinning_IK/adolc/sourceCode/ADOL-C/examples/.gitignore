@@ -1,7 +1,0 @@
-sparse/*
-nosparse/*
-x64/sparse/*
-x64/nosparse/*
-*.suo
-*.user
-*.filters
